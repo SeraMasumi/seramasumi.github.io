@@ -2,6 +2,7 @@
 layout: default
 title: Autoboxing
 nav_order: 3
+parent: Tech Knowlegde
 ---
 
 

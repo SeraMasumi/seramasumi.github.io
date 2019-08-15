@@ -2,6 +2,7 @@
 layout: default
 title: SQL总结
 nav_order: 5
+parent: Tech Knowlegde
 ---
 
 

@@ -2,11 +2,12 @@
 layout: default
 title: Java Override/Overload, 4 Principles of OOP
 nav_order: 2
+parent: Tech Knowlegde
 ---
 
 # Java Override/Overload
 
-###4 Principles of OOP
+### 4 Principles of OOP
 
 ### Encapsulation
 

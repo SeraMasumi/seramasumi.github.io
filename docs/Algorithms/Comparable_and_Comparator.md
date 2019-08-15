@@ -2,6 +2,7 @@
 layout: default
 title: Comparable and Comparator
 nav_order: 2
+parent: Algorithms
 ---
 
 # Comparable and Comparator

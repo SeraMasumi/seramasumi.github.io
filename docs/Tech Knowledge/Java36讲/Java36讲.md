@@ -2,6 +2,7 @@
 layout: default
 title: Java36讲笔记
 nav_order: 1
+parent: Tech Knowlegde
 ---
 
 # 第一讲 对Java平台的理解

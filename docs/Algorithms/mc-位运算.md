@@ -2,6 +2,7 @@
 layout: default
 title: 位运算笔记
 nav_order: 8
+parent: Algorithms
 ---
 
 ## 第一章：位运算在计算机领域和面试领域的意义

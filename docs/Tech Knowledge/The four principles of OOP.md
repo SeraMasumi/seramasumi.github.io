@@ -2,6 +2,7 @@
 layout: default
 title: The four principles of OOP
 nav_order: 6
+parent: Tech Knowlegde
 ---
 
 

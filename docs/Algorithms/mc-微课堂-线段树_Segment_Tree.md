@@ -2,6 +2,7 @@
 layout: default
 title: 线段树
 nav_order: 10
+parent: Algorithms
 ---
 
 ## 第一章：线段树可以解决什么问题

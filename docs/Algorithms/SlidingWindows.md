@@ -2,6 +2,7 @@
 layout: default
 title: Sliding Windows Problem
 nav_order: 4
+parent: Algorithms
 ---
 
 **Among all leetcode questions, I find that there are at least 5 substring search problem which could be solved by the sliding window algorithm.**

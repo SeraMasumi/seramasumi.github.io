@@ -2,6 +2,7 @@
 layout: default
 title: 树状数组
 nav_order: 9
+parent: Algorithms
 ---
 
 ## 第二章：树状数组的概念

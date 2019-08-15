@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Data Structure Problems
-nav_order: 8
+nav_order: 1
+parent: Algorithms
 ---
 
 # 380. Insert Delete GetRandom O(1)

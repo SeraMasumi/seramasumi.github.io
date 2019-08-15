@@ -2,6 +2,7 @@
 layout: default
 title: 三种背包问题
 nav_order: 11
+parent: Algorithms
 ---
 
 # 第一章 背包问题介绍

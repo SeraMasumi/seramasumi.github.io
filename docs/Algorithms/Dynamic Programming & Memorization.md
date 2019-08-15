@@ -2,6 +2,7 @@
 layout: default
 title: Dynamic Programming & Memorization
 nav_order: 3
+parent: Algorithms
 ---
 
 # Dynamic Programming & Memorization
